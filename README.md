@@ -1,5 +1,8 @@
 # Debug, a Pest-Classifier🐞
 ![GitHub Logo](img/DebugLogo.png)
+
+This repository was forked from the original one submitted to Hack the Northeast. The original repository can be found [here](https://github.com/AdrianaCeric/Debug)
+
 ## Inspiration
 Farmers rely heavily on crop yields as their main source of income. However, many pests can get in the way of optimal production yields as they can eat and harm the field crops. Pesticides are commonly used by many farmers to get rid of them. Despite that, the large quantities of pesticides used to spray on acres of farmland can be expensive, and many times, farmers misuse pesticides on the wrong bugs. The overuse of pesticides has many consequences which can cost farmers money, time, and resources:
 
